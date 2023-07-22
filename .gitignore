@@ -1,0 +1,4 @@
+venv/
+outputs/
+yolov4*
+checkpoints/

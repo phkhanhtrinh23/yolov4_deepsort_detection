@@ -1,0 +1,9 @@
+opencv-python==4.4.0.46
+lxml
+tqdm
+tensorflow==2.5.0
+absl-py
+easydict
+matplotlib
+pillow
+streamlit
