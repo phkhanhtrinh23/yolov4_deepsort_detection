@@ -70,7 +70,7 @@ python save_model.py --weights ./data/yolov4-tiny.weights --output ./checkpoints
 python object_tracker.py --weights ./checkpoints/yolov4-tiny-416 --model yolov4 --video ./data/video/test.mp4 --output ./outputs/tiny.avi --tiny
 ```
 
-## Resulting Streamlit Video
+## Streamlit Demo
 <p align="center"><img src="data/helpers/streamlit_yolov4.gif"\></p>
 
 ## Filter Classes that are Tracked by Object Tracker
